@@ -1,0 +1,157 @@
+@import url("https://fonts.googleapis.com/css2?family=Playwrite+AU+VIC:wght@100..400&display=swap");
+* {
+  margin: 0;
+}
+body {
+  background-color: #e6eeff;
+  background-color: transparent;
+}
+.navsec {
+  background-color: #001a4d;
+  color: aliceblue;
+  display: flex;
+  justify-content: space-between;
+  height: 70px;
+  padding-top: 20px;
+}
+.navsec h2 {
+  padding-left: 10px;
+}
+.navsec .search input {
+  width: 200px;
+  height: 25px;
+}
+.userdetails button {
+  width: 150px;
+  height: 25px;
+  font-weight: bold;
+}
+.cart button {
+  width: 40px;
+  height: 30px;
+}
+.cart {
+  padding-right: 30px;
+}
+.prosection {
+  padding-top: 40px;
+  display: flex;
+}
+.imagBox {
+  width: 80%;
+  padding-left: 20px;
+}
+.proimg {
+  width: 80%;
+}
+.protitle {
+  padding-top: 40px;
+  text-align: center;
+}
+.submenu {
+  background-color: #99bbff;
+}
+.submenu ul li {
+  list-style: none;
+  display: inline-flex;
+}
+.submenu ul li {
+  margin: 30px;
+  font-size: 25px;
+}
+.pagesection {
+  display: grid;
+  grid-template-columns: repeat(5, 300px);
+  gap: 5px;
+}
+.pageImg {
+  width: 250px;
+  height: 250px;
+}
+.pageImg img {
+  width: 100%;
+}
+.ind-section {
+  display: flex;
+  padding-top: 30px;
+}
+.ind-image {
+  height: 500px;
+  width: 500px;
+}
+.ind-image img {
+  width: 100%;
+}
+.ind-details .space {
+  display: inline;
+  padding-top: 70px;
+}
+.space {
+  margin: 90px;
+}
+.ind-details button {
+  height: 40px;
+  width: 90px;
+  background-color: #00134d;
+  color: white;
+  margin: 10px;
+  border-radius: 10px;
+}
+.fullpage {
+  display: flex;
+}
+.pro-selected {
+  border: 2px dashed #afc9fc;
+  width: 150px;
+  padding: 5px;
+}
+.pro-input {
+  margin: 5px;
+  padding: 5px;
+}
+ul li {
+  color: white;
+}
+
+.cart span {
+  color: pink;
+  background-color: brown;
+}
+footer {
+  background-color: #00134d;
+  text-align: center;
+  color: white;
+}
+.fbody {
+  display: flex;
+  flex-direction: row;
+  padding: 50px;
+  padding-left: 80px;
+}
+.details {
+  text-align: right;
+}
+.links {
+  padding-right: 200px;
+  color: white;
+  width: 20%;
+  letter-spacing: 1.5px;
+  text-align: left;
+}
+.links a {
+  color: white;
+  text-decoration: none;
+}
+.elements a {
+  color: white;
+  text-decoration: none;
+}
+.elements {
+  color: white;
+  width: 20%;
+  letter-spacing: 1.5px;
+  text-align: left;
+}
+.copy {
+  padding-bottom: 30px;
+}

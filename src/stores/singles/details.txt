@@ -1,0 +1,2 @@
+in this sub folder we create singile which are used to open every piece 
+seperately in a new PAGE
