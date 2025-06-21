@@ -6,7 +6,7 @@
 
 ## 📸 Project Preview
 
-![VK Store UI](.ouput/1_Navbar.png)
+![VK Store UI](ouput/1_Navbar.png)
 
 ---
 
